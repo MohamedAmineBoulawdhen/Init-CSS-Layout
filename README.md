@@ -1,7 +1,7 @@
 # Docplanner Webpage Reproduction Challenge
 🚀 Get ready to showcase your HTML & CSS skills!
 
-You'll be tasked with reproducing the [Docplanner website](https://www.docplanner.com/) to the best of your abilities. 
+You are tasked with reproducing the [Docplanner website](https://www.docplanner.com/) to the best of your abilities. 
 The goal is to make the site visually appealing and to add your own personal touch. 
 
 We've got your back with some helpful resources:
