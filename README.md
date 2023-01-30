@@ -5,7 +5,7 @@ You are tasked with reproducing the [Docplanner website](https://www.docplanner.
 The goal is to make the site visually appealing and to add your own personal touch. 
 
 We've got your back with some helpful resources:
-- [Divide your website like a pro with divs](link)
+- [Divide your website like a pro with divs](https://www.freecodecamp.org/news/html-div-what-is-a-div-tag-and-how-to-style-it-with-css/)
 - [HTML best practices you need to know](link)
 
 Start by creating your HTML structure, adding the necessary classes and id's to make your site interactive. 
