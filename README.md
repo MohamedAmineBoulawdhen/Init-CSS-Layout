@@ -12,6 +12,4 @@ Start by creating your HTML structure, adding the necessary classes and id's to 
 Then, bring your site to life with CSS. Don't be afraid to add your own unique touch!
 
 ⚡️ Ready to unleash your creativity? Let's do this!
----
-🙌 If you found this repository helpful, show your support by starring it. Your support means a lot. 
-Thank you for your time and consideration!
+
